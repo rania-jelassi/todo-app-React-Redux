@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.title {
+  font-size: 2.5rem;
+  background-color: rgb(54, 73, 93);
+  color: white;
+  width: 600px;
+  margin: 50px 400px;
+}
+.My-Input {
+  width: 600px;
+  height: 30px;
+  margin-left: 400px;
+  margin-right: 10px;
+}
+.Add {
+  background-color: rgb(49, 166, 74);
+  width: 40px;
+}
+.add-input {
+  display: flex;
+}
+.buttons {
+  display: flex;
+  padding: 30px;
+}
+.check {
+  text-decoration: line-through;
+  color: black;
+}
+.delete {
+  background-color: rgb(234, 126, 126);
+}
+.edit {
+  display: flex;
+}
+.color-edit {
+  background-color: yellowgreen;
+}
